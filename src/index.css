@@ -1,0 +1,8 @@
+.bg {
+    width: 1920px;
+    height: 1000px;
+    background-image: url(src/assets/navbar-img.png);
+
+}
+
+@import "tailwindcss";
